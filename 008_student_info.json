@@ -1,0 +1,22 @@
+{
+	"name": "joy",
+	"age": 16,
+	"class": "grade six",
+	"subject":["maths","physics","computer","english"],
+	"contact details":{"phone":"+2347049985229", "email": "ezenwokejoy@gmail.com"}
+}
+{
+	"name": "promise",
+	"age": 17,
+	"class": "grade seven",
+	"subje4ct": ["government","literature", "commerce"],
+	"contact details": {"phone": "+2347046653224", "email": "promisejoyy@gmail.com"}
+}
+{
+	"name": "favour",
+	"age":  17,
+	"class": "grade eight",
+	"subject": ["chemistry", "biology","english"],
+	"contact details": {"phone": "+2348043075209", "email": "favourblessed@gmail.com"}
+}
+
