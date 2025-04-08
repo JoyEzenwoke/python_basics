@@ -1,0 +1,72 @@
+[
+  {
+    "id":1,
+    "Title":"The Midnight Library",
+    "Author":"Matt Haig",
+    "Year of Publication":2020,
+    "price":13.5
+  },
+  {
+    "id":2,
+    "Title":"A Promised Land",
+    "Author":"A Promised Land",
+    "Year of Publication":2020,
+    "price":22.0
+  },
+  {
+    "id":3,
+    "Title":"Dune",
+    "Author":"Frank Herbert",
+    "Year of Publication":1965,
+    "price":10.99
+  },
+  {
+    "id":4,
+    "Title":"It Ends with Us",
+    "Author":"Colleen Hoover",
+    "Year of Publication":2016,
+    "price":13.99
+  },
+  {
+    "id":5,
+    "Title":"Becoming",
+    "Author":"Michelle Obama",
+    "Year of Publication":2018,
+    "price":18.99
+  },
+  {
+    "id":6,
+    "Title":"Where the Crawdads Sing",
+    "Author":"Delia Owens",
+    "Year of Publication":2018,
+    "price":16.0
+  },
+  {
+    "id":7,
+    "Title":"The Four Agreements",
+    "Author":"Don Miguel Ruiz",
+    "Year of Publication":1997,
+    "price":9.5
+  },
+  {
+    "id":8,
+    "Title":"Thinking, Fast and Slow",
+    "Author":"Daniel Kahneman",
+    "Year of Publication":2011,
+    "price":14.99
+  },
+  {
+    "id":9,
+    "Title":"The Subtle Art of Not Giving a Fck*",
+    "Author":"Mark Manson",
+    "Year of Publication":2016,
+    "price":15.99
+  },
+  {
+    "id":10,
+    "Title":"Rich Dad Poor Dad",
+    "Author":"Robert T. Kiyosaki",
+    "Year of Publication":1997,
+    "price":11.0
+  }
+]
