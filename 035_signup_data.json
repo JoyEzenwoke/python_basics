@@ -1,0 +1,72 @@
+[
+    {
+        "Id": "1",
+        "First_Name": "Joy",
+        "Last_Name": "Ezenwoke",
+        "Email": "joy22@gmail.com",
+        "Password": "1234"
+    },
+    {
+        "Id": "2",
+        "First_Name": "Hope",
+        "Last_Name": "Prince",
+        "Email": "hope@gmail.com",
+        "Password": "2345"
+    },
+    {
+        "Id": "3",
+        "First_Name": "Promise",
+        "Last_Name": "Daniel",
+        "Email": "promise@gmail.com",
+        "Password": "3456"
+    },
+    {
+        "Id": "4",
+        "First_Name": "Favour",
+        "Last_Name": "Peter",
+        "Email": "favour@gmail.com",
+        "Password": "2134"
+    },
+    {
+        "Id": "5",
+        "First_Name": "Sochima",
+        "Last_Name": "Solomon",
+        "Email": "sochi@gmail.com",
+        "Password": "sochmoney"
+    },
+    {
+        "Id": "6",
+        "First_Name": "Grace",
+        "Last_Name": "Prosper",
+        "Email": "grace@gmail.com",
+        "Password": "gracious"
+    },
+    {
+        "Id": "7",
+        "First_Name": "Marveleous",
+        "Last_Name": "Newman",
+        "Email": "marveleous@gmail.com",
+        "Password": "marveleous"
+    },
+    {
+        "Id": "8",
+        "First_Name": "Precious",
+        "Last_Name": "Wisdom",
+        "Email": "precious@gmail.com",
+        "Password": "precious"
+    },
+    {
+        "Id": "9",
+        "First_Name": "Blessing",
+        "Last_Name": "Prince",
+        "Email": "blessing@gmail.com",
+        "Password": "blessing23"
+    },
+    {
+        "Id": "10",
+        "First_Name": "Desmond",
+        "Last_Name": "Emmanuel",
+        "Email": "desmond@gmail.com",
+        "Password": "desmond25"
+    }
+]
